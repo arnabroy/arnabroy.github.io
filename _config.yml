@@ -1,0 +1,15 @@
+title: Arnab Roy
+description: >
+  Supercomputing & AI Infrastructure Lead building reliable, high-performance GPU platforms
+  for demanding AI and HPC workloads.
+url: "https://arnabroy.github.io"
+baseurl: ""
+author:
+  name: Arnab Roy
+  location: Greater Seattle Area
+linkedin_url: "https://www.linkedin.com/in/arnabroyai/"
+github_url: "https://github.com/arnabroy"
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
